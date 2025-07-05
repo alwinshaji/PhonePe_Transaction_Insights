@@ -1,0 +1,5 @@
+streamlit
+pandas
+matplotlib
+seaborn
+sqlite3; sys_platform != 'win32'  # Only if needed for Windows-specific handling
